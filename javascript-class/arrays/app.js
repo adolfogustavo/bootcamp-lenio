@@ -17,22 +17,11 @@ meses.push('Junio');
 // }
 
 const cart = [
-  { 
-    productos_electronicos: [
-      { name: 'Monitor', price: 500 },
-      { name: 'TV', price: 100 },
-      { name: 'Tablet', price: 200 },
-      { name: 'Headphones', price: 300 },
-      { name: 'Phone', price: 700 },
-    ],
-    productos_belleza: [
-      { name: 'Monitor', price: 500 },
-      { name: 'TV', price: 100 },
-      { name: 'Tablet', price: 200 },
-      { name: 'Headphones', price: 300 },
-      { name: 'Phone', price: 700 },
-    ],
-  }
+  { name: 'Monitor', price: 500 },
+  { name: 'TV', price: 100 },
+  { name: 'Tablet', price: 200 },
+  { name: 'Headphones', price: 300 },
+  { name: 'Phone', price: 700 },
 ];
 
 // for(let i = 0; i < cart.length; i++) {
