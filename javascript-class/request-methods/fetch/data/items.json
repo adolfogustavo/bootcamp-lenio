@@ -1,0 +1,82 @@
+[
+  {
+  "id" : 1,
+  "sku": "SKU-OIWQIE",
+  "name" : "LG Monitor",
+  "in_stock": 20,
+    "details": {
+      "color": "black",
+      "model": "LG-L200",
+      "release_date": "2021-05-17",
+      "shape": {
+        "type": "inches",
+        "size": "14.6"
+      },
+      "software_version": "none"
+    }
+  },
+  {
+    "id" : 2,
+    "sku": "SKU-D828DA",
+    "name" : "iPhone 12 Pro Max",
+    "in_stock": 9,
+    "details": {
+      "color": "Blue",
+      "model": "MGCJ3LL/A",
+      "release_date": "2020-10-17",
+      "shape": {
+        "type": "inches",
+        "size": "6.3"
+      },
+      "software_version": "14.5.1"
+    }
+  },
+  {
+    "id" : 3,
+    "sku": "SKU-OIWQIC",
+    "name" : "Macbook Air",
+    "in_stock": 20,
+    "details": {
+      "color": "Silver",
+      "model": "Air2017",
+      "release_date": "2017-05-17",
+      "shape": {
+        "type": "inches",
+        "size": "13.3"
+      },
+      "software_version": "Catalina"
+    }
+  },
+  {
+    "id" : 4,
+    "sku": "SKU-OIWQIT",
+    "name" : "Macbook Pro",
+    "in_stock": 5,
+    "details": {
+      "color": "Space Gray",
+      "model": "M1 Silicon",
+      "release_date": "2020-05-17",
+      "shape": {
+        "type": "inches",
+        "size": "13.3"
+      },
+      "software_version": "Big Sur"
+    }
+  },
+  {
+    "id" : 5,
+    "sku": "SKU-OIWQ45",
+    "name" : "Headphones Sony XM4",
+    "in_stock": 0,
+    "details": {
+      "color": "black",
+      "model": "1000-XM4",
+      "release_date": "2020-05-17",
+      "shape": {
+        "type": "none",
+        "size": "none"
+      },
+      "software_version": "3.5.1"
+    }
+  }
+]
